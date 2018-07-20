@@ -52,7 +52,7 @@
     "send": "^0.16.2",
     "serve-index": "^1.9.1",
     "serve-static": "^1.13.1",
-    "tiny-lr": "^1.2.1"
+    "tiny-lr": "^1.1.1"
   },
   "devDependencies": {
     "coffee-script": "^1.10.0",
